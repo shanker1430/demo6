@@ -13,3 +13,5 @@ def sort(nums):
 nums = [5, 2, 3, 1, 4, 6, 8, 7]
 
 sort(nums)
+
+print(nums)
